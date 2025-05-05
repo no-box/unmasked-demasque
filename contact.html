@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNMASKED | DÉMASQUÉ</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/drugi.css">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="assets/js/main.js"></script>
+</head>
+<body>
+    <!--Navigacija -->
+    <nav class="nav--glavni">
+      <div class="nav--lijevo">
+          <li><a href="index.html">UNMASKED</a> |</li>
+          <li><a href="overview.html">OVERVIEW</a> |</li>
+          <li><a href="production.html">PRODUCTION</a> |</li>
+          <li><a href="gallery.html">GALLERY</a> |</li>
+          <li><a href="contact.html">CONTACT</a></li>
+      </div>
+      <div class="nav--deano">
+          <li><a href="index.html">DÉMASQUÉ</a> |</li>
+          <li><a href="overview.html">APERÇU</a> |</li>
+          <li><a href="production.html">PRODUCTION</a> |</li>
+          <li><a href="gallery.html">GALERIE</a> |</li>
+          <li><a href="contact.html">CONTACT</a></li>
+      </div>
+  </nav>
+    <!-- Contact  -->
+    <div id="black-overlay"></div>
+    <div class="Stranica">
+      <div class="Home-Cjelina Cjelina--prva animacija-na-scroll">
+        <div class="zavjesa-lijevo"></div>
+        <div class="zavjesa-desno"></div>
+        <!-- Lijevi crni blok -->
+        <div class="Home-Lijevo Blok--crni">
+          <div class="Blok-unutrasnjost svg-anim-wrapper">
+            <div class="sadrzaj-grid">
+              <div class="sadrzaj-gore">
+                <h2 class="tekst-underline">Get in Touch</h2>
+                <p> Have questions, thoughts, or collaborations in mind?
+                <br>Feel free to reach out to me directly.</p>
+              </div>
+              <div class="sadrzaj-sredina">
+                <!-- ENG forma -->
+                <form name="contact-eng" method="POST" data-netlify="true">
+                  <input type="hidden" name="form-name" value="contact-eng" />
+                  <input type="text" name="name" placeholder="Name" required />
+                  <input type="email" name="email" placeholder="Email" required />
+                  <textarea name="message" placeholder="Message" rows="5" required></textarea>
+                  <button type="submit">Send</button>
+                </form>
+              </div>
+              <div class="sadrzaj-dolje">
+                <h3>Let us know how you'd like to connect.</h3>
+                <p>We are open to collaborations, screenings, and dialogue.</p>
+                 <!-- <div class="social-links">
+                  <a href="#" aria-label="Instagram"><h2>📸</h2></a>
+                  <a href="#" aria-label="Twitter"><h2>🐦</h2></a>
+                  <a href="#" aria-label="Vimeo"><h2>🎬</h2></a>
+                </div>-->
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Desni bijeli blok -->
+        <div class="Home-Desno Blok--bijeli">
+          <div class="Blok-unutrasnjost svg-anim-wrapper">
+            <div class="sadrzaj-grid">
+              <div class="sadrzaj-gore">
+                <h2 class="tekst-underline">Contactez-nous</h2>
+                <p>Pour toute demande, question ou collaboration,
+                <br>contactez Michel directement.</p>
+              </div>
+              <div class="sadrzaj-sredina">
+                <!-- FRA forma -->
+                <form name="contact-fra" method="POST" data-netlify="true">
+                  <input type="hidden" name="form-name" value="contact-fra" />
+                  <input type="text" name="nom" placeholder="Nom" required />
+                  <input type="email" name="email" placeholder="Email" required />
+                  <textarea name="message" placeholder="Message" rows="5" required></textarea>
+                  <button type="submit">Envoyer</button>
+                </form>
+              </div>
+              <div class="sadrzaj-dolje">
+                <h3>Dites-nous comment vous souhaitez participer.</h3>
+                <br>Ouverts à la collaboration, aux projections et aux dialogues.</p>
+                <!-- <div class="social-links">
+                  <a href="#" aria-label="Instagram"><h2>📸</h2></a>
+                  <a href="#" aria-label="Twitter"><h2>🐦</h2></a>
+                  <a href="#" aria-label="Vimeo"><h2>🎬</h2></a>
+                </div>-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- FOOTER -->
+    <footer class="glavni-footer">
+        <p>© Unmasked Documentary</p>
+    </footer>      
+</body>
+</html>

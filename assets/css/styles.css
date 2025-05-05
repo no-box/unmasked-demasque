@@ -1,0 +1,480 @@
+/* ====== GLOBALNE POSTAVKE ====== */
+:root {
+    /* Boje */
+    --crna: #000000;
+    --bijela: #FFFFFF;
+    --siva: #EEEEEE;
+    
+    /* Tipografija */
+    --font-regular: 'IBM Plex Sans', sans-serif;
+    --font-bold: 'IBM Plex Sans', sans-serif;
+    
+    /* Razmaci */
+    --base-padding: 2rem;
+    --base-margin: 1.5rem;
+}
+
+/* ====== RESET I BAZNI STILOVI ====== */
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    font-family: 'IBM Plex Sans', sans-serif;
+    line-height: 1.6;
+    overflow-x: hidden;
+    letter-spacing: -0.02rem;
+}
+
+/* ====== TIPOGRAFIJA ====== */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    letter-spacing: 0.01em; /* lagana čitljivost */
+    word-spacing: 0.05em;   /* bolji ritam */
+    line-height: 1.24;      /* Visina linije */
+    word-break: break-word;
+}
+
+h1 {
+  font-size: 3.3rem;
+  font-weight: 600;
+  margin-top: 3.5rem;
+  margin-bottom: 4rem;
+}
+
+h2 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  letter-spacing: -0.011rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.Naslov--veliki { font-size: 3rem; letter-spacing: 0.5rem; }
+.Naslov--srednji { font-size: 2rem; letter-spacing: 0.3rem; }
+.Naslov--mali { font-size: 1.5rem; }
+
+.Tekst--istaknuti { font-size: 1.2rem; line-height: 1.8; }
+.Tekst--standardni { font-size: 1rem; }
+.Tekst--sitni { font-size: 0.8rem; }
+
+/* ====== BLOK SISTEM ====== */
+[class*="Cjelina"] {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    scroll-snap-align: start;
+    position: relative;
+    overflow: hidden; /* spriječi izlaženje zavjesa */
+}
+
+[class*="-Lijevo"], [class*="-Desno"] {
+    flex: 1;
+    display: flex;
+    padding: var(--base-padding);
+}
+
+.Blok--crni { background: var(--crna); color: var(--bijela); }
+.Blok--bijeli { background: var(--bijela); color: var(--crna); }
+.Blok--sivi { background: var(--siva); color: var(--crna); }
+
+/* ====== STRUKTURA STRANICA ====== */
+/* Home Page Specific */
+.Home-Cjelina .Home-Lijevo {
+    align-items: flex-start;
+    justify-content: center;
+}
+
+/* Overview Page Specific */
+.Overview-Cjelina .Overview-Desno {
+    align-items: flex-end;
+}
+
+/* Cjelina = jedan red (⬛⬜️ ili obrnuto) */
+.Home-Cjelina {
+  display: flex;
+  width: 100%;
+  min-height: 100vh; /* svaka "ploča" zauzima visinu ekrana */
+}
+
+/* Galerija Cjeline */
+.Galerija-Cjelina {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  min-height: 100vh; /* Cijela visina kao ostale cjeline */
+}
+
+/* ====== SCROLL SISTEM ====== */
+html {
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+
+/* GLAVNI WRAPPER */
+.Stranica {
+  width: 100%;
+}
+  
+/* Blokovi (polovine) */
+.Blok--crni {
+  background-color: #000;
+  color: white;
+}
+  
+.Blok--bijeli {
+  background-color: white;
+  color: black;
+}
+  
+/* Lijevi i desni blok = 50% */
+.Home-Lijevo,
+.Home-Desno {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes zavjesaLijevo {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+@keyframes zavjesaDesno {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(100%); }
+}
+
+/* Zavjese */
+.zavjesa-lijevo,
+.zavjesa-desno {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+  height: 100%;
+  z-index: 990;
+  background-color: #000;
+  animation-duration: 1.5s;
+  animation-fill-mode: forwards;
+  animation-play-state: paused;
+}
+
+.zavjesa-lijevo {
+  left: 0;
+  animation-name: zavjesaLijevo;
+}
+
+.zavjesa-desno {
+  right: 0;
+  animation-name: zavjesaDesno;
+}
+
+.zavjesa-lijevo.start,
+.zavjesa-desno.start {
+  animation-play-state: running;
+}
+
+/* Unutarnji sadržaj */
+.Blok-unutrasnjost {
+max-height: 80vh; /* ili nešto manje, prema potrebi */
+max-width: 80%;
+overflow-y: auto;
+padding-right: 0rem; /* za scrollbar da ne sjeda na tekst */
+text-align: center;
+margin: auto;
+}
+
+/* Navigation - Split Screen */
+.nav--glavni {
+  position: fixed;
+  display: flex;
+  height: 60px;
+  letter-spacing: 1.0px;
+  z-index: 999;
+  width: 100%;
+  /*! display: flex; */
+}
+
+.nav--glavni a {
+  list-style: none;
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+  padding-bottom: 2px;
+}
+
+.nav--lijevo,
+.nav--deano {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  /*! gap: 1em; */
+}
+
+
+.nav--lijevo, .nav--deano {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  /*! padding: 0 20px; */
+  z-index: 200;
+}
+
+.nav--lijevo {
+  background-color: white;
+  justify-content: center;
+}
+
+.nav--deano {
+  background-color: black;
+  justify-content: center;
+  color: white;
+}
+
+nav a {
+
+  font-weight: bold;
+  margin: 0 10px;
+}
+
+.nav--lijevo a {
+  color: black;
+}
+
+.nav--deano a {
+  color: white;
+}
+
+.nav--lijevo a,
+.nav--deano a {
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.nav--lijevo a:hover {
+  border-bottom: 2px solid rgb(0, 0, 0); /* ili neka druga boja ako želiš */
+}
+
+.nav--deano a:hover {
+  border-bottom: 2px solid rgb(255, 255, 255); /* ili neka druga boja ako želiš */
+}
+
+.Glavni-Footer {
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 20px 10px;
+  font-size: 14px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+}
+
+/* Sakrij footer na mobilnim verzijama */
+@media (max-width: 1024px) {
+  .Glavni-Footer {
+    display: none;
+  }
+}
+
+/* Video full width */
+.Galerija-Video {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-section {
+  width: 70%;
+  /*! padding: 2rem 0; */
+  height: 70%;
+  margin-top: 1rem;
+}
+
+.video-player {
+  width: 100%;
+  max-height: 80vh;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Foto red – 4 bloka */
+.Galerija-FotoRed {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 kolone */
+  grid-template-rows: repeat(2, 1fr);    /* 2 reda */
+  width: 100%;
+  height: 100vh;
+}
+
+/* Sve heading vrijednosti unutar Blok-unutrasnjost */
+.Blok-unutrasnjost h1,
+.Blok-unutrasnjost h2,
+.Blok-unutrasnjost h3,
+.Blok-unutrasnjost h4 {
+  position: relative;
+  display: inline-block;
+  opacity: 0.5;
+  transition: opacity 0.4s ease;
+}
+
+.Blok-unutrasnjost h1::after,
+.Blok-unutrasnjost h2::after,
+.Blok-unutrasnjost h3::after,
+.Blok-unutrasnjost h4::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  height: 2px;
+  width: 0%;
+  background-color: currentColor;
+  transition: width 0.4s ease;
+}
+
+.Blok-unutrasnjost:hover h1,
+.Blok-unutrasnjost:hover h2,
+.Blok-unutrasnjost:hover h3,
+.Blok-unutrasnjost:hover h4 {
+  opacity: 1;
+}
+
+.Blok-unutrasnjost:hover h1::after,
+.Blok-unutrasnjost:hover h2::after,
+.Blok-unutrasnjost:hover h3::after,
+.Blok-unutrasnjost:hover h4::after {
+  width: 100%;
+}
+
+.Blok-unutrasnjost:hover p {
+  opacity: 1;
+}
+
+.Blok-unutrasnjost p {
+  opacity: 0.15;
+  transition: opacity 0.8s ease 0.2s; /* 0.2s delay */
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+  max-width: 400px;
+  margin-top: 1rem;
+  margin-right: 10rem;
+}
+
+input,
+textarea {
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  font: inherit;
+  background: transparent;
+  color: inherit;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #999;
+}
+
+button[type="submit"] {
+  padding: 0.75rem;
+  border: none;
+  background: #fff;
+  color: #000;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.Blok--bijeli button[type="submit"] {
+  background: #000;
+  color: #fff;
+  border: 1px solid #000;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+.Galerija-Foto {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /*! aspect-ratio: 1 / 1; */ /* kvadrat */
+  position: relative;
+  overflow: hidden;
+}
+
+.foto-placeholder {
+  width: 100%;
+  /*! height: 100%; */
+  background-color: #111; /* tamno crna */
+  /*! border: 2px solid white; */
+  transition: background-color 0.3s ease, opacity 0.3s ease;
+  margin-top: 0.3em;
+}
+
+.Galerija-Foto:hover .foto-placeholder {
+  background-color: rgba(255, 255, 255, 0.1); /* blaga prozirnost */
+  opacity: 0.8;
+}
+
+#black-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  opacity: 1; /* Početno crno pokriva sve */
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 10;
+}
+
+#black-overlay.hidden {
+  opacity: 0;
+}

@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Friction - https://friction.graphics -->
+
+<svg height="780" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 780" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000">
+ <g transform="translate(294.889 269.51)">
+  <g transform="translate(209.878 184.118)">
+   <g transform="rotate(0)">
+    <g transform="scale(1.55133 1.55133)">
+     <g transform="skewX(0) skewY(0)">
+      <g transform="translate(-294.889 -269.51)" opacity="1">
+       <rect y="89.0192" height="360.981" id="podloga" width="567.257" stroke-linecap="butt" stroke-linejoin="miter" x="11.2606" rx="0" fill="rgba(40, 40, 40, 1)" stroke="none" ry="0" stroke-width="0.264583"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(499.963 382.897)">
+  <g transform="translate(0 0)">
+   <g transform="rotate(0)">
+    <g transform="scale(1 1)">
+     <g transform="skewX(0) skewY(0)">
+      <g transform="translate(-499.963 -382.897)" opacity="1">
+       <g id="Group0">
+        <g transform="translate(505.629 -216.319)">
+         <g transform="translate(4.76715 326.265)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 -1)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-505.629 216.319)" opacity="1">
+              <rect y="-279.923" height="127.209" id="sivo" width="868.743" stroke-linecap="butt" stroke-linejoin="miter" x="71.2573" rx="0" fill="rgba(170, 170, 170, 1)" stroke="none" ry="0" stroke-width="0.264583"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(145.132 145.132)">
+         <g transform="translate(63.4114 468.731)">
+          <g transform="rotate(0)">
+           <g transform="scale(0.64454 0.64454)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-145.132 -145.132)" opacity="1">
+              <g id="g2">
+               <g transform="translate(145.132 145.132)">
+                <g transform="translate(0 0)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 1)">
+                   <g transform="skewX(0) skewY(0)">
+                    <g transform="translate(-145.132 -145.132)" opacity="1">
+                     <g id="_x34_34k_Full_HD">
+                      <g transform="translate(145.132 145.132)">
+                       <g transform="translate(0 0)">
+                        <g transform="rotate(0)">
+                         <g transform="scale(1 1)">
+                          <g transform="skewX(0) skewY(0)">
+                           <g transform="translate(-145.132 -145.132)" opacity="1">
+                            <path id="path1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(170, 170, 170, 1)" stroke="none" stroke-width="1.13139" d="M278.743 29.29C278.743 29.29 11.519 29.29 11.519 29.29C5.157 29.29 0 34.447 0 40.809C0 40.809 0 169.454 0 169.454C0 169.454 0 180.809 0 180.809C0 180.809 0 249.454 0 249.454C0 255.815 5.157 260.973 11.519 260.973C11.519 260.973 278.744 260.973 278.744 260.973C285.105 260.973 290.263 255.816 290.263 249.454C290.263 249.454 290.263 180.809 290.263 180.809C290.263 180.809 290.263 169.454 290.263 169.454C290.263 169.454 290.263 40.809 290.263 40.809C290.262 34.447 285.104 29.29 278.743 29.29ZM56.563 185.959C56.563 185.959 33.751 185.959 33.751 185.959C33.751 185.959 33.751 201.334 33.751 201.334C33.751 201.334 54.19 201.334 54.19 201.334C54.19 201.334 54.19 206.147 54.19 206.147C54.19 206.147 33.751 206.147 33.751 206.147C33.751 206.147 33.751 224.895 33.751 224.895C33.751 224.895 28.755 224.895 28.755 224.895C28.755 224.895 28.755 181.147 28.755 181.147C28.755 181.147 56.564 181.147 56.564 181.147C56.564 181.147 56.564 185.959 56.564 185.959C56.564 185.959 56.563 185.959 56.563 185.959ZM99.69 206.895C99.69 218.27 92.815 225.147 81.377 225.147C69.877 225.147 62.941 218.27 62.941 206.895C62.941 206.895 62.941 181.147 62.941 181.147C62.941 181.147 67.941 181.147 67.941 181.147C67.941 181.147 67.941 206.895 67.941 206.895C67.941 215.395 73.063 220.334 81.377 220.334C89.69 220.334 94.69 215.395 94.69 206.895C94.69 206.895 94.69 181.147 94.69 181.147C94.69 181.147 99.69 181.147 99.69 181.147C99.69 181.147 99.69 206.895 99.69 206.895ZM136.13 224.895C136.13 224.895 111.942 224.895 111.942 224.895C111.942 224.895 111.942 181.147 111.942 181.147C111.942 181.147 116.942 181.147 116.942 181.147C116.942 181.147 116.942 220.149 116.942 220.149C116.942 220.149 136.13 220.149 136.13 220.149C136.13 220.149 136.13 224.895 136.13 224.895ZM168.444 224.895C168.444 224.895 144.256 224.895 144.256 224.895C144.256 224.895 144.256 181.147 144.256 181.147C144.256 181.147 149.254 181.147 149.254 181.147C149.254 181.147 149.254 220.149 149.254 220.149C149.254 220.149 168.443 220.149 168.443 220.149C168.443 220.149 168.443 224.895 168.443 224.895C168.443 224.895 168.444 224.895 168.444 224.895ZM214.693 224.895C214.693 224.895 203.567 224.895 203.567 224.895C203.567 224.895 203.567 207.897 203.567 207.897C203.567 207.897 185.446 207.897 185.446 207.897C185.446 207.897 185.446 224.895 185.446 224.895C185.446 224.895 174.319 224.895 174.319 224.895C174.319 224.895 174.319 181.147 174.319 181.147C174.319 181.147 185.446 181.147 185.446 181.147C185.446 181.147 185.446 199.147 185.446 199.147C185.446 199.147 203.567 199.147 203.567 199.147C203.567 199.147 203.567 181.147 203.567 181.147C203.567 181.147 214.693 181.147 214.693 181.147C214.693 181.147 214.693 224.895 214.693 224.895ZM241.822 224.895C241.822 224.895 223.446 224.895 223.446 224.895C223.446 224.895 223.446 199.694 223.446 199.694C223.446 199.694 234.571 199.694 234.571 199.694C234.571 199.694 234.571 216.024 234.571 216.024C234.571 216.024 242.509 216.024 242.509 216.024C249.321 216.024 254.197 210.77 254.197 203.085C254.197 195.331 249.071 190.022 242.009 190.022C242.009 190.022 223.446 190.022 223.446 190.022C223.446 190.022 223.446 181.147 223.446 181.147C223.446 181.147 242.259 181.147 242.259 181.147C256.009 181.147 265.507 190.022 265.507 203.02C265.507 215.957 255.882 224.895 241.822 224.895ZM267.225 157.935C267.225 157.935 23.037 157.935 23.037 157.935C23.037 157.935 23.037 52.327 23.037 52.327C23.037 52.327 267.225 52.327 267.225 52.327C267.225 52.327 267.225 157.935 267.225 157.935Z"/>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                       </g>
+                      </g>
+                      <g transform="translate(102.578 102.758)">
+                       <g transform="translate(0 0)">
+                        <g transform="rotate(0)">
+                         <g transform="scale(1 1)">
+                          <g transform="skewX(0) skewY(0)">
+                           <g transform="translate(-102.578 -102.758)" opacity="1">
+                            <path id="polygon1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(170, 170, 170, 1)" stroke="none" stroke-width="1.13139" d="M93.883 62.18C93.883 62.18 68.261 111.686 68.261 111.686C68.261 111.686 68.261 125.48 68.261 125.48C68.261 125.48 106.752 125.48 106.752 125.48C106.752 125.48 106.752 143.336 106.752 143.336C106.752 143.336 125.882 143.336 125.882 143.336C125.882 143.336 125.882 125.48 125.882 125.48C125.882 125.48 136.895 125.48 136.895 125.48C136.895 125.48 136.895 109.83 136.895 109.83C136.895 109.83 125.882 109.83 125.882 109.83C125.882 109.83 125.882 92.439 125.882 92.439C125.882 92.439 106.752 92.439 106.752 92.439C106.752 92.439 106.752 109.83 106.752 109.83C106.752 109.83 89.594 109.83 89.594 109.83C89.594 109.83 113.708 62.18 113.708 62.18C113.708 62.18 93.883 62.18 93.883 62.18Z"/>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                       </g>
+                      </g>
+                      <g transform="translate(185.668 102.758)">
+                       <g transform="translate(0 0)">
+                        <g transform="rotate(0)">
+                         <g transform="scale(1 1)">
+                          <g transform="skewX(0) skewY(0)">
+                           <g transform="translate(-185.668 -102.758)" opacity="1">
+                            <path id="polygon2" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(170, 170, 170, 1)" stroke="none" stroke-width="1.13139" d="M167.275 143.336C167.275 143.336 167.275 123.395 167.275 123.395C167.275 123.395 178.057 111.453 178.057 111.453C178.057 111.453 199.505 143.336 199.505 143.336C199.505 143.336 224.199 143.336 224.199 143.336C224.199 143.336 192.085 95.801 192.085 95.801C192.085 95.801 222.229 62.18 222.229 62.18C222.229 62.18 198.346 62.18 198.346 62.18C198.346 62.18 167.275 97.309 167.275 97.309C167.275 97.309 167.275 62.18 167.275 62.18C167.275 62.18 146.638 62.18 146.638 62.18C146.638 62.18 146.638 143.336 146.638 143.336C146.638 143.336 167.275 143.336 167.275 143.336Z"/>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                       </g>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(311.687 49.1764)">
+         <g transform="translate(169.128 61.296)">
+          <g transform="rotate(0)">
+           <g transform="scale(1.55133 1.55133)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-311.687 -49.1764)" opacity="1">
+              <g id="gcrno">
+               <g transform="translate(101.772 73.114)">
+                <g transform="translate(28.5315 -5.79677)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 0.920716)">
+                   <g transform="skewX(17.5605) skewY(0)">
+                    <g transform="translate(-101.772 -73.114)" opacity="1">
+                     <rect y="49.7801" height="46.6678" id="rect1028955" width="42.617" stroke-linecap="butt" stroke-linejoin="miter" x="80.463" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177226"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(191.772 73.114)">
+                <g transform="translate(28.5315 -5.79677)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 0.920716)">
+                   <g transform="skewX(17.5605) skewY(0)">
+                    <g transform="translate(-191.772 -73.114)" opacity="1">
+                     <rect y="49.7801" height="46.6678" id="rect1028957" width="42.617" stroke-linecap="butt" stroke-linejoin="miter" x="170.463" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177226"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(281.772 73.114)">
+                <g transform="translate(28.5315 -5.79677)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 0.920716)">
+                   <g transform="skewX(17.5605) skewY(0)">
+                    <g transform="translate(-281.772 -73.114)" opacity="1">
+                     <rect y="49.7801" height="46.6678" id="rect1028950" width="42.617" stroke-linecap="butt" stroke-linejoin="miter" x="260.463" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177226"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(371.772 73.114)">
+                <g transform="translate(28.5315 -5.79677)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 0.920716)">
+                   <g transform="skewX(17.5605) skewY(0)">
+                    <g transform="translate(-371.772 -73.114)" opacity="1">
+                     <rect y="49.7801" height="46.6678" id="rect1028951" width="42.617" stroke-linecap="butt" stroke-linejoin="miter" x="350.463" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177226"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(461.772 73.114)">
+                <g transform="translate(28.5315 -5.79677)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 0.920716)">
+                   <g transform="skewX(17.5605) skewY(0)">
+                    <g transform="translate(-461.772 -73.114)" opacity="1">
+                     <rect y="49.7801" height="46.6678" id="rect102895" width="42.617" stroke-linecap="butt" stroke-linejoin="miter" x="440.463" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177226"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(551.772 73.114)">
+                <g transform="translate(28.5315 -5.79677)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 0.920716)">
+                   <g transform="skewX(17.5605) skewY(0)">
+                    <g transform="translate(-551.772 -73.114)" opacity="1">
+                     <rect y="49.7801" height="46.6678" id="rect1028953" width="42.617" stroke-linecap="butt" stroke-linejoin="miter" x="530.463" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177226"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(-141.923 -29.7149)">
+                <g transform="translate(271.812 56.8837)">
+                 <g transform="rotate(-180)">
+                  <g transform="scale(1 0.914317)">
+                   <g transform="skewX(-18.225) skewY(0)">
+                    <g transform="translate(141.923 29.7149)" opacity="1">
+                     <rect y="-50.8624" height="42.295" id="rect102895710" width="42.8706" stroke-linecap="butt" stroke-linejoin="miter" x="-163.359" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177761"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(-231.923 -29.7149)">
+                <g transform="translate(451.812 56.8837)">
+                 <g transform="rotate(-180)">
+                  <g transform="scale(1 0.914317)">
+                   <g transform="skewX(-18.225) skewY(0)">
+                    <g transform="translate(231.923 29.7149)" opacity="1">
+                     <rect y="-50.8624" height="42.295" id="rect10289571" width="42.8706" stroke-linecap="butt" stroke-linejoin="miter" x="-253.359" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177761"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(-321.923 -29.7149)">
+                <g transform="translate(631.812 56.8837)">
+                 <g transform="rotate(-180)">
+                  <g transform="scale(1 0.914317)">
+                   <g transform="skewX(-18.225) skewY(0)">
+                    <g transform="translate(321.923 29.7149)" opacity="1">
+                     <rect y="-50.8624" height="42.295" id="rect102895717" width="42.8706" stroke-linecap="butt" stroke-linejoin="miter" x="-343.359" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177761"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(-411.923 -29.7149)">
+                <g transform="translate(811.812 56.8837)">
+                 <g transform="rotate(-180)">
+                  <g transform="scale(1 0.914317)">
+                   <g transform="skewX(-18.225) skewY(0)">
+                    <g transform="translate(411.923 29.7149)" opacity="1">
+                     <rect y="-50.8624" height="42.295" id="rect102895719" width="42.8706" stroke-linecap="butt" stroke-linejoin="miter" x="-433.359" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177761"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(-501.923 -29.7149)">
+                <g transform="translate(991.812 56.8837)">
+                 <g transform="rotate(-180)">
+                  <g transform="scale(1 0.914317)">
+                   <g transform="skewX(-18.225) skewY(0)">
+                    <g transform="translate(501.923 29.7149)" opacity="1">
+                     <rect y="-50.8624" height="42.295" id="rect102895718" width="42.8706" stroke-linecap="butt" stroke-linejoin="miter" x="-523.359" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177761"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(-591.923 -29.7149)">
+                <g transform="translate(1171.81 56.8837)">
+                 <g transform="rotate(-180)">
+                  <g transform="scale(1 0.914317)">
+                   <g transform="skewX(-18.225) skewY(0)">
+                    <g transform="translate(591.923 29.7149)" opacity="1">
+                     <rect y="-50.8624" height="42.295" id="rect1028957181" width="42.8706" stroke-linecap="butt" stroke-linejoin="miter" x="-613.359" rx="0" fill="rgba(20, 20, 20, 1)" stroke="none" ry="0" stroke-width="0.177761"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(296.254 88.5155)">
+                <g transform="translate(30.821 -0.129861)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 1)">
+                   <g transform="skewX(0) skewY(0)">
+                    <g transform="translate(-296.254 -88.5155)" opacity="1">
+                     <rect y="86.5155" height="4" id="rect70630" width="567.27" stroke-linecap="butt" stroke-linejoin="miter" x="12.6189" rx="0" fill="rgba(0, 0, 0, 1)" stroke="none" ry="0" stroke-width="0.170553"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(299.889 45.8333)">
+                <g transform="translate(30.821 -0.129861)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 1)">
+                   <g transform="skewX(0) skewY(0)">
+                    <g transform="translate(-299.889 -45.8333)" opacity="1">
+                     <rect y="43.8333" height="4" id="rect706302" width="560" stroke-linecap="butt" stroke-linejoin="miter" x="19.8889" rx="0" fill="rgba(0, 0, 0, 1)" stroke="none" ry="0" stroke-width="0.170553"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(83.8709 48.7795)">
+         <g transform="translate(87.3115 61.1194)">
+          <g transform="rotate(0)">
+           <g transform="scale(1.56827 1.55337)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-83.8709 -48.7795)" opacity="1">
+              <g id="klap">
+               <g transform="translate(84.8889 47.2337)">
+                <g transform="translate(-1.01794 1.5458)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(0.986427 0.965703)">
+                   <g transform="skewX(0) skewY(0)">
+                    <g transform="translate(-84.8889 -47.2337)" opacity="1">
+                     <path id="path12345" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(20, 20, 20, 1)" stroke="none" stroke-width="0.169527" d="M9.88889 13.9051C9.88889 13.9051 9.88889 80.5623 9.88889 80.5623C9.8889 85.5725 13.9505 89.6341 18.9607 89.6341C18.9607 89.6341 150.817 89.6341 150.817 89.6341C155.827 89.6341 159.889 85.5725 159.889 80.5623C159.889 80.5623 159.889 13.9051 159.889 13.9051C159.889 8.89493 155.827 4.83334 150.817 4.83333C150.817 4.83333 18.9607 4.83333 18.9607 4.83333C13.9505 4.83333 9.88889 8.89492 9.88889 13.9051Z"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(31.2958 70.807)">
+                <g transform="translate(0 0)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 1)">
+                   <g transform="skewX(0) skewY(0)">
+                    <g transform="translate(-31.2958 -70.807)" opacity="1">
+                     <ellipse id="path12511" cy="70.807" stroke-linecap="butt" stroke-linejoin="miter" cx="31.2958" rx="7" fill="rgba(255, 255, 255, 1)" stroke="none" ry="7" stroke-width="0.169517"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(31.2958 27.807)">
+                <g transform="translate(0 0)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 1)">
+                   <g transform="skewX(0) skewY(0)">
+                    <g transform="translate(-31.2958 -27.807)" opacity="1">
+                     <ellipse id="path125114" cy="27.807" stroke-linecap="butt" stroke-linejoin="miter" cx="31.2958" rx="7" fill="rgba(255, 255, 255, 1)" stroke="none" ry="7" stroke-width="0.169517"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+               <g transform="translate(113.296 70.807)">
+                <g transform="translate(0 0)">
+                 <g transform="rotate(0)">
+                  <g transform="scale(1 1)">
+                   <g transform="skewX(0) skewY(0)">
+                    <g transform="translate(-113.296 -70.807)" opacity="1">
+                     <ellipse id="path125112" cy="70.807" stroke-linecap="butt" stroke-linejoin="miter" cx="113.296" rx="7" fill="rgba(255, 255, 255, 1)" stroke="none" ry="7" stroke-width="0.169517"/>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(296.076 269.188)">
+  <g transform="translate(210.533 183.94)">
+   <g transform="rotate(0)">
+    <g transform="scale(1.55133 1.55133)">
+     <g transform="skewX(0) skewY(0)">
+      <g transform="translate(-296.076 -269.188)" opacity="1">
+       <g id="crte">
+        <g transform="translate(372.443 -188.029)">
+         <g transform="translate(-184.413 560.472)">
+          <g transform="rotate(90)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.0875;0.17;0.5625;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-372.443 188.029)" opacity="1">
+              <rect y="-188.996" height="1.93384" id="crta6" width="135.133" stroke-linecap="butt" stroke-linejoin="miter" x="304.876" rx="0" fill="rgba(255, 255, 255, 1)" stroke="none" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(177.827 -294.889)">
+         <g transform="translate(117.062 472.716)">
+          <g transform="rotate(90)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.075;0.1575;0.55;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-177.827 294.889)" opacity="1">
+              <rect y="-295.856" height="1.93384" id="crta5" width="158.922" stroke-linecap="butt" stroke-linejoin="miter" x="98.366" rx="0" fill="rgba(255, 255, 255, 1)" stroke="none" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(11.6 439.042)">
+         <g transform="translate(0 0)">
+          <g transform="rotate(0)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.065;0.145;0.5375;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-11.6 -439.042)" opacity="1">
+              <rect y="438.075" height="1.93384" id="crta4" width="544.108" stroke-linecap="butt" stroke-linejoin="miter" x="24.0223" rx="0" fill="rgba(255, 255, 255, 1)" stroke="none" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(11.6 305.843)">
+         <g transform="translate(0 0)">
+          <g transform="rotate(0)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.05;0.1325;0.525;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-11.6 -305.843)" opacity="1">
+              <rect y="304.876" height="1.93384" id="crta3" width="544.108" stroke-linecap="butt" stroke-linejoin="miter" x="24.0223" rx="0" fill="rgba(255, 255, 255, 1)" stroke="none" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(11.6 256.321)">
+         <g transform="translate(0 0)">
+          <g transform="rotate(0)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.0375;0.12;0.5125;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1"/>
+            <g transform="skewX(4.5) skewY(0)">
+             <g transform="translate(-11.6 -256.321)" opacity="1">
+              <rect y="255.354" height="1.93384" id="crta2" width="544.108" stroke-linecap="butt" stroke-linejoin="miter" x="24.0223" rx="0" fill="rgba(255, 255, 255, 1)" stroke="none" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(11.6 99.3329)">
+         <g transform="translate(0 0)">
+          <g transform="rotate(0)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.025;0.1075;0.5;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-11.6 -99.3329)" opacity="1">
+              <rect y="98.366" height="1.93384" id="crta1" width="544.108" stroke-linecap="butt" stroke-linejoin="miter" x="24.0223" rx="0" fill="rgba(255, 255, 255, 1)" stroke="none" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(221.827 440.107)">
+  <g transform="translate(4.38841 -105.62)">
+   <g transform="rotate(0)">
+    <g transform="scale(0.998293 1.00171)">
+     <g transform="skewX(0) skewY(0)">
+      <g transform="translate(-221.827 -440.107)" opacity="1">
+       <g id="text2">
+        <g transform="translate(56.154 -9.772)">
+         <g transform="translate(97.0871 397.792)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 1)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-56.154 9.772)" opacity="1">
+              <g font-size="28" font-family="Helvetica" id="tspan11" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255, 255, 255, 1)" text-anchor="start" stroke="none" stroke-width="1">
+               <text word-spacing="0em" letter-spacing="0em">
+                <tspan x="0">GRANTS</tspan>
+               </text>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(125.062 -9.772)">
+         <g transform="translate(97.0871 432.517)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 1)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-125.062 9.772)" opacity="1">
+              <g font-size="28" font-family="Helvetica" id="tspan12" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255, 255, 255, 1)" text-anchor="start" stroke="none" stroke-width="1">
+               <text word-spacing="0em" letter-spacing="0em">
+                <tspan x="0">CO-PRODUCTIONS</tspan>
+               </text>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(91.2945 -9.772)">
+         <g transform="translate(97.0871 467.241)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 1)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-91.2945 9.772)" opacity="1">
+              <g font-size="28" font-family="Helvetica" id="tspan13" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255, 255, 255, 1)" text-anchor="start" stroke="none" stroke-width="1">
+               <text word-spacing="0em" letter-spacing="0em">
+                <tspan x="0">TAX SHELTER</tspan>
+               </text>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(82.964 -9.772)">
+         <g transform="translate(97.0871 501.965)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 1)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-82.964 9.772)" opacity="1">
+              <g font-size="28" font-family="Helvetica" id="tspan14" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255, 255, 255, 1)" text-anchor="start" stroke="none" stroke-width="1">
+               <text word-spacing="0em" letter-spacing="0em">
+                <tspan x="0">DONATIONS</tspan>
+               </text>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(165.435 340.103)">
+  <g transform="translate(4.4847 -105.791)">
+   <g transform="rotate(0)">
+    <g transform="scale(0.998293 1.00171)">
+     <g transform="skewX(0) skewY(0)">
+      <g transform="translate(-165.435 -340.103)" opacity="1">
+       <g id="text1">
+        <g transform="translate(68.348 -7.518)">
+         <g transform="translate(97.0871 347.621)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 1)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-68.348 7.518)" opacity="1">
+              <g font-size="28" font-family="Helvetica" id="tspan10" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255, 255, 255, 1)" text-anchor="start" stroke="none" stroke-width="1">
+               <text word-spacing="0em" letter-spacing="0em">
+                <tspan x="0">Budgeting</tspan>
+               </text>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(106.578 179.941)">
+  <g transform="translate(100 527.884)">
+   <g transform="rotate(0)">
+    <g transform="scale(1 1)">
+     <g>
+      <animateTransform values="1 1;1 1;1 0;1 0;1 0;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.44;0.49;0.7475;0.75;0.8;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0.333333 1 0.666667;0 0 1 1;0 0 1 1"/>
+      <g transform="skewX(0) skewY(0)">
+       <g transform="translate(-106.578 -179.941)" opacity="1">
+        <rect y="0" height="180" id="RectangleBox" width="210" stroke-linecap="round" stroke-linejoin="round" x="0" rx="0" fill="rgba(40, 40, 40, 1)" stroke="none" ry="0" stroke-width="10"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(521.486 527.474)">
+  <g transform="translate(-260.705 -106.372)">
+   <g transform="rotate(0)">
+    <g transform="scale(1 1)">
+     <g>
+      <animateTransform values="1 1;1 1;1 0.7;1 0.7;1 0.52;1 0.52;1 0.38;1 0.38;1 0.22;1 0.22;1 0.05;1 0.05;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.125;0.15;0.175;0.2;0.225;0.25;0.275;0.3;0.325;0.35;0.7475;0.8;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1;0 0 1 1"/>
+      <g transform="skewX(0) skewY(0)">
+       <g transform="translate(-521.486 -527.474)" opacity="1">
+        <rect y="306.337" height="226.396" id="krpa" width="348.535" stroke-linecap="butt" stroke-linejoin="miter" x="351.465" rx="0" fill="rgba(40, 40, 40, 1)" stroke="none" ry="0" stroke-width="0.264583"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(205.4 580.43)">
+  <g transform="translate(4.41646 -105.38)">
+   <g transform="rotate(0)">
+    <g transform="scale(0.998293 1.00171)">
+     <g transform="skewX(0) skewY(0)">
+      <g transform="translate(-205.4 -580.43)" opacity="1">
+       <g id="production">
+        <g transform="translate(108.312 -7.686)">
+         <g transform="translate(97.0871 588.116)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 1)">
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-108.312 7.686)" opacity="1">
+              <g font-size="28" font-family="Helvetica" id="tspan9" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255, 255, 255, 1)" text-anchor="start" stroke="none" stroke-width="1">
+               <text word-spacing="0em" letter-spacing="0em">
+                <tspan x="0">2025 production</tspan>
+               </text>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(540.061 578.333)">
+  <g transform="translate(-236.713 -105.387)">
+   <g transform="rotate(0)">
+    <g>
+     <animateTransform values="1 1;1 1;0.005 1;0.005 1;0.005 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.35;0.37;0.7475;0.75;0.8;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0.333333 1 0.666667;0 0 1 1;0 0 1 1"/>
+     <g transform="scale(1 1)">
+      <g transform="skewX(0) skewY(0)">
+       <g transform="translate(-540.061 -578.333)" opacity="1">
+        <rect y="547.766" height="63.105" id="krpica" width="204.89" stroke-linecap="butt" stroke-linejoin="miter" x="336.095" rx="0" fill="rgba(40, 40, 40, 1)" stroke="none" ry="0" stroke-width="0.264583"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(756.921 431.145)">
+  <g transform="translate(-36.9853 -116.203)">
+   <g transform="rotate(0)">
+    <g>
+     <animateTransform values="0.01 1;0.01 1;0.998293 1;0.998293 1;0.01 1;0.01 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.4;0.425;0.75;0.78;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1;0 0 1 1"/>
+     <g>
+      <animateTransform values="1 0.01;1 0.01;1 1.00171;1 1.00171;1 0.01;1 0.01" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.4;0.425;0.75;0.78;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0.333333 1 0.666667;0 0 1 1;0 0 1 1"/>
+      <g transform="skewX(0) skewY(0)">
+       <g transform="translate(-756.921 -431.145)" opacity="1">
+        <g id="budget">
+         <g transform="translate(754.443 427.606)">
+          <g transform="translate(0 0)">
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g transform="skewX(0) skewY(0)">
+              <g transform="translate(-754.443 -427.606)" opacity="1">
+               <g id="Group">
+                <g transform="translate(133.891 -9.772)">
+                 <g transform="translate(615.845 410.08)">
+                  <g transform="rotate(0)">
+                   <g transform="scale(1 1)">
+                    <g transform="skewX(0) skewY(0)">
+                     <g transform="translate(-133.891 9.772)" opacity="1">
+                      <g font-size="28" font-family="Helvetica" id="tspan18" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255, 255, 255, 1)" text-anchor="start" stroke="none" stroke-width="1">
+                       <text word-spacing="0em" letter-spacing="0em">
+                        <tspan x="0">BUDGET OVERVIEW</tspan>
+                       </text>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+                <g transform="translate(112.742 -7.84)">
+                 <g transform="translate(652.546 444.804)">
+                  <g transform="rotate(0)">
+                   <g transform="scale(1 1)">
+                    <g transform="skewX(0) skewY(0)">
+                     <g transform="translate(-112.742 7.84)" opacity="1">
+                      <g font-size="28" font-family="Helvetica" id="tspan19" stroke-linecap="butt" stroke-linejoin="miter" fill="rgba(255, 255, 255, 1)" text-anchor="start" stroke="none" stroke-width="1">
+                       <text word-spacing="0em" letter-spacing="0em">
+                        <tspan x="0">(full transparent)</tspan>
+                       </text>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(296.076 269.188)">
+  <g transform="translate(210.533 183.94)">
+   <g transform="rotate(0)">
+    <g transform="scale(1.55133 1.55133)">
+     <g transform="skewX(0) skewY(0)">
+      <g transform="translate(-296.076 -269.188)" opacity="1">
+       <g id="crte0">
+        <g transform="translate(372.443 -188.029)">
+         <g transform="translate(-184.413 560.472)">
+          <g transform="rotate(90)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.8125;0.895;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-372.443 188.029)" opacity="1">
+              <rect y="-188.996" height="1.93384" id="crta6" width="135.133" stroke-linecap="butt" stroke-linejoin="miter" x="304.876" rx="0" fill="rgba(255, 255, 255, 1)" stroke="rgba(40, 40, 40, 1)" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(177.827 -294.889)">
+         <g transform="translate(117.062 472.716)">
+          <g transform="rotate(90)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.8;0.8825;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-177.827 294.889)" opacity="1">
+              <rect y="-295.856" height="1.93384" id="crta5" width="158.922" stroke-linecap="butt" stroke-linejoin="miter" x="98.366" rx="0" fill="rgba(255, 255, 255, 1)" stroke="rgba(40, 40, 40, 1)" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(11.6 439.042)">
+         <g transform="translate(0 0)">
+          <g transform="rotate(0)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.79;0.87;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-11.6 -439.042)" opacity="1">
+              <rect y="438.075" height="1.93384" id="crta4" width="544.108" stroke-linecap="butt" stroke-linejoin="miter" x="24.0223" rx="0" fill="rgba(255, 255, 255, 1)" stroke="rgba(40, 40, 40, 1)" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(11.6 305.843)">
+         <g transform="translate(0 0)">
+          <g transform="rotate(0)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.775;0.8575;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-11.6 -305.843)" opacity="1">
+              <rect y="304.876" height="1.93384" id="crta3" width="544.108" stroke-linecap="butt" stroke-linejoin="miter" x="24.0223" rx="0" fill="rgba(255, 255, 255, 1)" stroke="rgba(40, 40, 40, 1)" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(11.6 256.321)">
+         <g transform="translate(0 0)">
+          <g transform="rotate(0)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.7625;0.845;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0 1 1"/>
+            <g transform="skewX(4.5) skewY(0)">
+             <g transform="translate(-11.6 -256.321)" opacity="1">
+              <rect y="255.354" height="1.93384" id="crta2" width="544.108" stroke-linecap="butt" stroke-linejoin="miter" x="24.0223" rx="0" fill="rgba(255, 255, 255, 1)" stroke="rgba(40, 40, 40, 1)" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(11.6 99.3329)">
+         <g transform="translate(0 0)">
+          <g transform="rotate(0)">
+           <g>
+            <animateTransform values="0 1;0 1;1 1;1 1" attributeName="transform" repeatCount="indefinite" calcMode="spline" dur="16s" keyTimes="0;0.75;0.8325;1" type="scale" keySplines="0 0 1 1;0 0 1 1;0 0 1 1"/>
+            <g transform="skewX(0) skewY(0)">
+             <g transform="translate(-11.6 -99.3329)" opacity="1">
+              <rect y="98.366" height="1.93384" id="crta1" width="544.108" stroke-linecap="butt" stroke-linejoin="miter" x="24.0223" rx="0" fill="rgba(255, 255, 255, 1)" stroke="rgba(40, 40, 40, 1)" ry="0" stroke-width="1.93382"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <linearGradient id="0x00007fb34ada41c0">
+   <stop offset="0" stop-color="rgba(40, 40, 40, 1)"/>
+  </linearGradient>
+  <linearGradient id="0x00007fb34ada3e60">
+   <stop offset="0" stop-color="rgba(194, 194, 194, 1)"/>
+  </linearGradient>
+  <linearGradient id="0x00007fb37b0f9ba0">
+   <stop offset="0" stop-color="rgba(0, 0, 0, 1)"/>
+  </linearGradient>
+ </defs>
+</svg>

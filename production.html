@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNMASKED | DÉMASQUÉ</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/drugi.css">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="assets/js/main.js"></script>
+</head>
+<body>
+    <!--Navigacija -->
+    <nav class="nav--glavni">
+        <div class="nav--lijevo">
+            <li><a href="index.html">UNMASKED</a> |</li>
+            <li><a href="overview.html">OVERVIEW</a> |</li>
+            <li><a href="production.html">PRODUCTION</a> |</li>
+            <li><a href="gallery.html">GALLERY</a> |</li>
+            <li><a href="contact.html">CONTACT</a></li>
+        </div>
+        <div class="nav--deano">
+            <li><a href="index.html">DÉMASQUÉ</a> |</li>
+            <li><a href="overview.html">APERÇU</a> |</li>
+            <li><a href="production.html">PRODUCTION</a> |</li>
+            <li><a href="gallery.html">GALERIE</a> |</li>
+            <li><a href="contact.html">CONTACT</a></li>
+        </div>
+    </nav>
+    <!-- Production  -->
+    <div id="black-overlay"></div>
+    <div class="Stranica">
+         <!-- Cjelina 1 -->
+        <div class="Production-Cjelina Cjelina--prva animacija-na-scroll">
+            <div class="zavjesa-lijevo"></div>
+            <div class="zavjesa-desno"></div>
+            <!-- Lijevo 1 -->
+            <div class="Production-Lijevo Blok--crni">
+                <div class="Blok-unutrasnjost svg-anim-wrapper">
+                    <div class="sadrzaj-grid">
+                        <div class="sadrzaj-gore">
+                            <!-- Tekst, dugme, sadržaj -->
+                            <h2>Timeline</h2>
+                            <p>A production timeline drawn in pencil — and sometimes erased in ink.</p>
+                        </div>
+                        <div class="sadrzaj-sredina">
+                            <!-- SVG ide ovdje -->
+                            <svg class="unmasking-timeline" width="500" height="600" xmlns="http://www.w3.org/2000/svg" class="svg-animacija animacija-na-scroll">
+                                <!-- Animirana linija (stroke animation) -->
+                                <line class="timeline-path" y2="600" x2="100" y1="50" x1="100" stroke-width="4" stroke="#ffffff">
+                                    <animate attributeName="y2" from="50" to="550" dur="3s" />
+                                </line>
+                                <line class="timeline-path" y2="600" x2="100" y1="50" x1="100" stroke-width="4" stroke="#cccccc">
+                                    <animate attributeName="y2" from="50" to="550" dur="3s" repeatCount="indefinite"/>
+                                </line>
+                                <!-- Interaktivne točke -->
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="100" r="12" fill="#cccccc" stroke="#ffffff" stroke-width="3">
+                                        <animate attributeName="r" values="8;15;8" dur="2.5s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="78" class="phase-title">Unmasking the truth begins with curiosity</text>
+                                        <text x="140" y="105" class="phase-subtitle">Development &amp; Research</text>
+                                </g>
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="200" r="12" fill="#cccccc" stroke="#ffffff" stroke-width="3">
+                                        <animate attributeName="r" values="8;13;8" dur="2.5s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="182" class="phase-title">Laying the groundwork for revelation</text>
+                                        <text x="140" y="208" class="phase-subtitle">Pre-production</text>
+                                </g>
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="300" r="12" fill="#cccccc" stroke="#ffffff" stroke-width="3">
+                                        <animate attributeName="r" values="8;13;8" dur="2.5s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="280" class="phase-title">Capturing raw truths on camera</text>
+                                        <text x="140" y="306" class="phase-subtitle">Principal Photography</text>
+                                </g>
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="400" r="12" fill="#cccccc" stroke="#ffffff" stroke-width="3">
+                                        <animate attributeName="r" values="8;13;8" dur="2.5s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="382" class="phase-title">Crafting the narrative puzzle</text>
+                                        <text x="140" y="407" class="phase-subtitle">Post-production & Editing</text>
+                                </g>
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="500" r="12" fill="#cccccc" stroke="#ffffff" stroke-width="3">
+                                        <animate attributeName="r" values="8;13;8" dur="2.5s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="486" class="phase-title">Distribution & Impact Campaign</text>
+                                        <text x="140" y="508" class="phase-subtitle">Amplifying the unmasked message</text>
+                                </g>
+                            </svg>
+                        </div>
+                        <div class="sadrzaj-dolje">
+                            <br><br>
+                            <hr>
+                            <p>Still, we march: frame by frame, plan by improvisation.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Desno 1 -->
+            <div class="Production-Desno Blok--bijeli">
+                <div class="Blok-unutrasnjost svg-anim-wrapper">
+                    <div class="sadrzaj-grid">
+                        <div class="sadrzaj-gore">
+                            <h2>Chronologie</h2>
+                            <p>Un calendrier de production esquissé au crayon - parfois effacé à l'encre.</p>
+                        </div>
+                        <div class="sadrzaj-sredina">
+                            <svg class="unmasking-timeline" width="590" height="600" xmlns="http://www.w3.org/2000/svg">
+                                <!-- Animirana linija -->
+                                <line class="timeline-path" y2="600" x2="100" y1="50" x1="100" stroke-width="4" stroke="#bebebe">
+                                <animate attributeName="y2" from="50" to="550" dur="2s" repeatCount="indefinite"/>
+                                    </line>
+                                <line class="timeline-path" y2="600" x2="100" y1="50" x1="100" stroke-width="4" stroke="#cccccc">
+                                    <animate attributeName="y2" from="50" to="550" dur="2s"/>
+                                </line>
+                                <!-- Interaktivne točke -->
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="100" r="12" fill="#000000" stroke="#cccccc" stroke-width="3">
+                                        <animate attributeName="r" values="8;11;8" dur="3s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="78" class="phase-title-fr">Démasquer la vérité commence par la curiosité</text>
+                                        <text x="140" y="105" class="phase-subtitle-fr">Développement & Recherche</text>
+                                </g>
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="200" r="12" fill="#000000" stroke="#cccccc" stroke-width="3">
+                                        <animate attributeName="r" values="8;11;8" dur="3s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="182" class="phase-title-fr">Préparer le terrain pour la révélation</text>
+                                        <text x="140" y="208" class="phase-subtitle-fr">Pré-production</text>
+                                </g>
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="300" r="12" fill="#000000" stroke="#cccccc" stroke-width="3">
+                                        <animate attributeName="r" values="8;11;8" dur="3s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="280" class="phase-title-fr">Capturer des vérités brutes à l'écran</text>
+                                        <text x="140" y="306" class="phase-subtitle-fr">Tournage</text>
+                                </g>
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="400" r="12" fill="#000000" stroke="#cccccc" stroke-width="3">
+                                        <animate attributeName="r" values="8;11;8" dur="3s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="382" class="phase-title-fr">Assembler le puzzle narratif</text>
+                                        <text x="140" y="407" class="phase-subtitle-fr">Post-production & Montage</text>
+                                </g>
+                                <g class="phase-point" data-phase="1">
+                                    <circle cx="100" cy="500" r="12" fill="#000000" stroke="#cccccc" stroke-width="3">
+                                        <animate attributeName="r" values="8;11;8" dur="3s" repeatCount="indefinite"/>
+                                    </circle>
+                                        <text x="140" y="486" class="phase-title-fr">Amplifier le message dévoilé</text>
+                                        <text x="140" y="508" class="phase-subtitle-fr">Distribution & Campagne d'Impact</text>
+                                </g>
+                            </svg>
+                        </div>
+                         <div class="sadrzaj-dolje">
+                                <br><br>
+                                <hr>
+                                <p>Et pourtant, nous avançons : image par image, plan par improvisation.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+         <!-- Cjelina 2 -->
+        <div class="Production-Cjelina Cjelina--druga animacija-na-scroll">
+            <div class="zavjesa-lijevo"></div>
+            <div class="zavjesa-desno"></div>
+            <!-- Lijevo 2 -->
+            <div class="Production-Lijevo Blok--bijeli">
+                <div class="Blok-unutrasnjost svg-anim-wrapper">
+                    <div class="sadrzaj-grid">
+                        <div class="sadrzaj-gore">
+                            <!-- Naslov -->
+                            <h2>Budget</h2>
+                            <p>Filmmaking is an equation where creativity meets reality.
+                            <br>Every euro brings a scene closer to life.</p>
+                        </div>
+                        <div class="sadrzaj-sredina">
+                            <!-- Klapa -->
+                            <div class="klapa-content">
+                                <button class="klapa-button">BUDGET</button>
+                                <svg class="klapa-fora" xmlns="http://www.w3.org/2000/svg">
+                                    <!-- Transparentno Polje -->
+                                    <rect x="0" y="0" width="350" height="180" fill="url(#transparency)" rx="5"/>
+                                    <text x="180" y="60" text-anchor="middle" font-size="30" fill="#FF0000" font-weight="bold">FULL TRANSPARENT</text>
+                                    <text x="172" y="128" text-anchor="middle" font-size="22" fill="#FF0000" font-weight="bold">OVERVIEW</text>
+                                    <defs>
+                                        <pattern id="transparency" width="20" height="20" patternUnits="userSpaceOnUse">
+                                          <rect width="10" height="10" fill="#fff"/>
+                                          <rect x="10" y="10" width="10" height="10" fill="#fff"/>
+                                          <rect x="10" y="0" width="10" height="10" fill="#ccc"/>
+                                          <rect x="0" y="10" width="10" height="10" fill="#ccc"/>
+                                        </pattern>
+                                    </defs>
+                                </svg>
+                                <!-- SVG ide ovdje -->
+                                <div class="svg-anim-bg">
+                                    <img src="assets/svg/klapa_loop.svg" alt="Filmska klapa" class="klapa-svg" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sadrzaj-dolje">
+                            <h4>Belgium's Tax Shelter</h4>
+                            <p>is not just a funding mechanism - it's a bridge between art and opportunity.
+                            <br>A unique chance to invest in culture and to unmask new worlds.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Desno 2 -->
+            <div class="Production-Desno Blok--crni">
+                <div class="Blok-unutrasnjost svg-anim-wrapper">
+                    <div class="sadrzaj-grid">
+                        <div class="sadrzaj-gore">
+                            <h2>Budget</h2>
+                            <p>Le cinéma est une équation où la créativité rencontre la réalité.
+                            <br>Chaque euro rapproche une scène de la vie.</p>
+                        </div>
+                        <div class="sadrzaj-sredina">
+                            <!-- Klapa -->
+                            <div class="klapa-content">
+                                <button class="klapa-button">BUDGET</button>
+                                <svg class="klapa-fora" xmlns="http://www.w3.org/2000/svg">
+                                    <!-- Transparentno Polje -->
+                                    <rect x="0" y="0" width="350" height="180" fill="url(#transparency)" rx="5"/>
+                                    <text x="180" y="60" text-anchor="middle" font-size="30" fill="#FF0000" font-weight="bold">FULL TRANSPARENT</text>
+                                    <text x="172" y="128" text-anchor="middle" font-size="22" fill="#FF0000" font-weight="bold">OVERVIEW</text>
+                                    <defs>
+                                        <pattern id="transparency" width="20" height="20" patternUnits="userSpaceOnUse">
+                                          <rect width="10" height="10" fill="#fff"/>
+                                          <rect x="10" y="10" width="10" height="10" fill="#fff"/>
+                                          <rect x="10" y="0" width="10" height="10" fill="#ccc"/>
+                                          <rect x="0" y="10" width="10" height="10" fill="#ccc"/>
+                                        </pattern>
+                                    </defs>
+                                </svg>
+                                <!-- SVG ide ovdje -->
+                                <div class="svg-anim-bg">
+                                    <img src="assets/svg/klapa_loop.svg" alt="Filmska klapa" class="klapa-svg" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sadrzaj-dolje">
+                            <h4>Le Tax Shelter belge</h4>
+                            <p>n'est pas seulement un mécanisme de financement - c'est un pont entre l'art et l'opportunité. 
+                                Une chance unique d'investir dans la culture
+                            <br>et de lever les masques sur de nouveaux mondes.</p>
+                        </div>
+                     </div>
+                </div>                      
+            </div>
+        </div>
+         <!-- Cjelina 3 -->
+        <div class="Production-Cjelina Cjelina--treca animacija-na-scroll">
+            <div class="zavjesa-lijevo"></div>
+            <div class="zavjesa-desno"></div>
+            <!-- Lijevo 3 -->
+            <div class="Production-Lijevo Blok--crni">
+                <div class="Blok-unutrasnjost svg-anim-wrapper">
+                    <!-- SADRŽAJ GORE -->
+                    <div class="svg-anim-content">
+                        <h2>Don't look further<br>LOOK<br>DEEPER.</h2>
+                        <p>Join the Journey of UNMASKED</p>
+                    </div>
+                    <!-- SVG IZNAD -->
+                    <div class="svg-anim-bg-cta">
+                        <div class="credits-box">
+                            <div class="film-screen">
+                                <div class="credits-scroll">
+                                    <h3>Discover the man behind the legend.</h3>
+                                    <br>
+                                    <br>
+                                    <p> Invest in a story that reveals what we usually hide.<br>  
+                                        The face is not a mask - but a mirror of society.<br>
+                                        Support a feature-length documentary that changes perspectives
+                                    <br>- not just on the face, but on humanity itself.<br>  
+                                        This is a project with a universal theme and market potential
+                                    <br>and opportunity to stand out financially,creatively, and ethically.</p><br>
+                                    <h4>- Thematic relevance</h4><br>
+                                    <h4>- Festival potential</h4><br>
+                                    <h4>- European co-production</h4><br>
+                                    <h4>- Tax Shelter opportunities in Belgium</h4>
+                                    <br>
+                                    <br>
+                                    <h3>We're not just selling a story
+                                    <br>we're offering you the chance
+                                    <br>to be part of the change.</h3>
+                                    <br>
+                                    <br>
+                                    <h3>YOUR LOGO</h3>
+                                    <br>
+                                    <br>
+                                    <br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- SADRŽAJ DOLJE -->
+                    <div class="svg-anim-content tekst">
+                    <h4>Every contribution lights up a new frame.</h4>
+                    <p>Help us reveal what is too often hidden</p>
+                    <h1>🎬</h1>
+                    </div>
+                </div>
+            </div>
+            <!-- Desno 3 -->
+            <div class="Production-Desno Blok--bijeli">
+                <div class="Blok-unutrasnjost svg-anim-wrapper">
+                    <!-- SADRŽAJ GORE -->
+                    <div class="svg-anim-content">
+                        <h2>Ne cherchez pas plus loin
+                        <br>REGARDEZ PLUS PROFONDÉMENT.</h2>
+                        <p>Participez à l'aventure de DÉMASQUÉ</p>
+                    </div>
+                    <!-- SVG IZNAD -->
+                    <div class="svg-anim-bg-cta">
+                        <div class="credits-box">
+                            <div class="film-screen-2">
+                                <div class="credits-scroll-2">
+                                    <h3>Discover the man behind the legend.</h3>
+                                    <br>
+                                    <br>
+                                    <p> Invest in a story that reveals what we usually hide.<br>  
+                                        The face is not a mask - but a mirror of society.<br>
+                                        Support a feature-length documentary that changes perspectives
+                                    <br>- not just on the face, but on humanity itself.<br>  
+                                        This is a project with a universal theme and market potential
+                                    <br>and opportunity to stand out financially,creatively, and ethically.</p><br>
+                                    <h4>- Thematic relevance</h4><br>
+                                    <h4>- Festival potential</h4><br>
+                                    <h4>- European co-production</h4><br>
+                                    <h4>- Tax Shelter opportunities in Belgium</h4>
+                                    <br>
+                                    <br>
+                                    <h3>We're not just selling a story
+                                    <br>we're offering you the chance
+                                    <br>to be part of the change.</h3>
+                                    <br>
+                                    <br>
+                                    <h3>YOUR LOGO</h3>
+                                    <br>
+                                    <br>
+                                    <br>
+                                </div>
+                            </div>
+                        </div>
+                      </div>
+                    <!-- SADRŽAJ DOLJE -->
+                    <div class="svg-anim-content tekst">
+                    <h4>Chaque contribution illumine une nouvelle image.</h4>
+                    <p>Aidez-nous à révéler ce qui est trop souvent caché.</p>
+                    <h1>🎬</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+         <!-- Cjelina 4 -->
+        <div class="Production-Cjelina Cjelina--cetvrta animacija-na-scroll">
+            <div class="zavjesa-lijevo"></div>
+            <div class="zavjesa-desno"></div>
+            <!-- Lijevo 4 -->
+            <div class="Production-Lijevo Blok--bijeli">
+                <div class="Blok-unutrasnjost svg-anim-wrapper">
+                    <div class="sadrzaj-grid">
+                        <div class="sadrzaj-gore">
+                            <h2>Festivals</h2>
+                            <p>Our past projects have earned over ten international awards across a spectrum of festivals and competitions.</p>
+                        </div>
+                        <div class="sadrzaj-sredina">
+                            <div class="awards-list">
+                                <div class="award-placeholder">
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; &nbsp; World Festival of Underwater Pictures <br>Antibes (FRA) 2004.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; &nbsp; International Underwater Film Festival<br>Beograd 2004.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; &nbsp; Eastern Mediterranean International Underwater<br>Photography and Film festival Cyprus 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; &nbsp; United Nations Development Programme (UNDP)<br> &nbsp; Motovun film festival 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; GREEN WAVE - 21ST CENTURY <br>&nbsp; European Environment Festival 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" />&nbsp; &nbsp; &nbsp; &nbsp;
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Freedom to Creativity<br>Zagreb (Croatia) 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Marmara Festival of underwater photography and film<br>Istanbul (Turkey) 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Festival Dell'immagine Subacquea<br>Elba 2005</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Golden Chainsaw WINNER<br>Varazdin 2011</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" /> &nbsp; &nbsp; &nbsp; &nbsp;
+                                    <img src="assets/svg/fest-left.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Mostar Film Festival<br>Mostar 2002</h4> &nbsp;
+                                    <img src="assets/svg/fest-right.svg" width="10" alt="Festival_1" class="lovor" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sadrzaj-dolje">
+                        </div>
+                    </div>
+                  </div>
+            </div>
+            <!-- Desno 4 -->
+            <div class="Production-Desno Blok--crni">
+                <div class="Blok-unutrasnjost svg-anim-wrapper">
+                    <div class="sadrzaj-grid">
+                        <div class="sadrzaj-gore">
+                            <h2>Festivals</h2>
+                            <p>Nos projets précédents ont remporté plus de dix prix internationaux à travers une variété de festivals et de compétitions.</p>
+                        </div>
+                        <div class="sadrzaj-sredina">
+                            <div class="awards-list">
+                                <div class="award-placeholder-fr">
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; World Festival of Underwater Pictures <br>Antibes (FRA) 2004.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; International Underwater Film Festival<br>Beograd 2004.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Eastern Mediterranean International Underwater<br>Photography and Film festival Cyprus 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; United Nations Development Programme (UNDP)<br> &nbsp; Motovun film festival 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; GREEN WAVE - 21ST CENTURY <br>&nbsp; European Environment Festival 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Freedom to Creativity<br>Zagreb (Croatia) 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Marmara Festival of underwater photography and film<br>Istanbul (Turkey) 2005.</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Festival Dell'immagine Subacquea<br>Elba 2005</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <br>
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; WINNER Golden Chainsaw<br>Varazdin 2011</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                    <img src="assets/svg/fest-left-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                    <h4> &nbsp; Mostar Film Festival<br>Mostar 2002</h4> &nbsp;
+                                    <img src="assets/svg/fest-right-b.svg" width="10" alt="Festival_1" class="lovor" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sadrzaj-dolje">
+                        </div>
+                    </div>
+                  </div>
+            </div>
+        </div>
+    </div>
+    <!-- FOOTER -->
+    <footer class="glavni-footer">
+        <p>© Unmasked Documentary</p>
+    </footer>
+</body>
+</html>
